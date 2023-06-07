@@ -6,7 +6,7 @@ authors = ["Derek Visch"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "<3.9,>=3.6"
+python = "<3.11,>=3.6"
 pipelinewise-singer-python = "1.2.0"
 jsonschema = "3.2.0"
 click = "^7.1.2"
